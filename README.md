@@ -1,5 +1,6 @@
-# Mirai.Net 2.5.2
+# Mirai.Net 2.5.2 修复至 2.5.3 更新最新版nuget包。支持最新版 mirai-api-http-2.10.0
 
+20240105 修复至 2.5.3 更新最新版nuget包。支持最新版 mirai-api-http-2.10.0
 Mirai.NET 是基于 [mirai-api-http] 实现的 C# 版轻量级 [mirai] 社区 SDK。
 
 此项目遵循 [AGPL-3.0](https://github.com/AHpxChina/Mirai.Net/blob/master/LICENSE) 协议开源。
