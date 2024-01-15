@@ -10,9 +10,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mirai.Net.UnitTest", "Mirai.Net.UnitTest\Mirai.Net.UnitTest.csproj", "{61E302AE-F792-420C-A46B-B4EAD491D8B7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{4DC60B37-22AE-487D-8153-F381884D6D74}"
-	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,5 +32,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {230F72ED-3FDD-4043-AC3D-ACD0979C724D}
 	EndGlobalSection
 EndGlobal
